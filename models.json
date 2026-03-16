@@ -5,8 +5,7 @@
     "claude-haiku-4-5-20251001"
   ],
   "gpt": [
-    "gpt-5",
-    "gpt-4.1",
+    "gpt-5.2",
     "gpt-4o",
     "gpt-4o-mini"
   ],
