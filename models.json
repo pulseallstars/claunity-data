@@ -6,10 +6,9 @@
   "gpt": [
     "gpt-5.4",
     "gpt-5.3",
-    "gpt-5.2-codex"
   ],
   "gemini": [
-    "gemini-3.0-ultra",
+    "gemini-3.1-pro-preview",
     "gemini-2.5-pro",
   ]
 }
