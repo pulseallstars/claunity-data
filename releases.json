@@ -1,9 +1,9 @@
 {
-  "latest": "1.0.54",
+  "latest": "1.0.56",
   "minimum_required": "1.0.0",
   "downloads": {
-    "windows": "https://github.com/pulseallstars/claunity-releases/releases/download/v1.0.54/ClaunityApp-Setup.exe",
-    "macos": "https://github.com/pulseallstars/claunity-releases/releases/download/v1.0.54/ClaunityApp.zip",
-    "linux": "https://github.com/pulseallstars/claunity-releases/releases/download/v1.0.54/ClaunityApp"
+    "windows": "https://github.com/pulseallstars/claunity-releases/releases/download/v1.0.56/ClaunityApp-Setup.exe",
+    "macos": "https://github.com/pulseallstars/claunity-releases/releases/download/v1.0.56/ClaunityApp.zip",
+    "linux": "https://github.com/pulseallstars/claunity-releases/releases/download/v1.0.56/ClaunityApp"
   }
 }
